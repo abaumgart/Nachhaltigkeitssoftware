@@ -1,4 +1,4 @@
-
+# Änderung vom 26. September 2024
 import math
 import matplotlib.pyplot as plt
 
